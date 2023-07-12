@@ -4,8 +4,8 @@
 
 <img src="https://github.com/prokopievp/graph-visualization/raw/main/readme_image/sec.png"/>
 <br/>
-<br/>
-Основой проекта являются Django, Postgres, React, Reagraph (рендеринг графа через WebGL). 
+
+Основой проекта являются `Django`, `Postgres`, `React`, `Reagraph` (рендеринг графа через `WebGL`). 
 <br/>
 <br/>
 
