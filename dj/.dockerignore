@@ -1,0 +1,13 @@
+.tox/
+.venv/
+venv/
+dist/
+build/
+*.egg-info
+.coverage
+.github/
+coverage.xml
+node_modules/
+.vscode/
+.git
+media/
