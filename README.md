@@ -2,8 +2,8 @@
 
 Проект представляет собой вебстраницу с графом куска цепи питания в животном мире. Звенья можно удалять, а также смотреть персональные карточки на отдельной странице.
 
-<img style={"height: 100;"} src="https://github.com/prokopievp/graph-visualisation/raw/master/readme_image/main.png"/>
-<img style={'height: 100;'} src="https://github.com/prokopievp/graph-visualisation/raw/master/readme_image/sec.png"/>
+<img style={"height: 100;"} src="https://github.com/prokopievp/graph-visualisation/raw/main/readme_image/main.png"/>
+<img style={'height: 100;'} src="https://github.com/prokopievp/graph-visualisation/raw/main/readme_image/sec.png"/>
 
 Основой проекта являются Django, Postgres, React, Reagraph (рендеринг графа через WebGL). 
 
