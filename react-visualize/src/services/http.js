@@ -5,6 +5,8 @@ const apiAxios = axios.create()
 
 if (window.location.protocol + "//" + window.location.host === "http://localhost:3000") {
   apiAxios.defaults.baseURL = "http://localhost:8000/api";
+} else if (window.location.host.includes(':3000')) {
+  apiAxios.defaults.baseURL = `${window.location.protocol}//${window.location.host.replace(':3000', ':8000')}/api`
 } else {
   apiAxios.defaults.baseURL = `${window.location.protocol}//${window.location.host}/api`
 }
