@@ -8,6 +8,7 @@
 Основой проекта являются Django, Postgres, React, Reagraph (рендеринг графа через WebGL). 
 <br/>
 <br/>
+
 Сами данные инициализируются из `/db_init/dataset/*`.
 
 ## Запуск
